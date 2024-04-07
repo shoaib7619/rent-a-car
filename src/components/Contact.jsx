@@ -35,8 +35,8 @@ function Contact() {
                 </div>
             )}
 
-            <div className='container m-5'>
-                <div className='flex-1 bg-white w-full mb-8 border border-gray-300 rounded-lg px-6 py-8'>
+            <div className='container m-5 pr-2rem'>
+                <div className='flex-1 bg-white w-full mb-8 border border-gray-300 rounded-lg px-8 py-8'>
                     <form className='flex flex-col gap-y-3' ref={form} onSubmit={sendEmail}>
                         <input className='name border border-gray-300
                             focus:border-violet-700 outline-none rounded
