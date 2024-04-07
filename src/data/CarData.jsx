@@ -11,7 +11,7 @@ export const carsData = [
         "engine_power": "4200 cc",
         "engine_type": "Diesel",
         "model": 2016,
-        "rent": "$1134",
+        "rent": "$12",
         "available":"Available",
         "agent": {
           "image": "agent1.jpg",
@@ -31,7 +31,7 @@ export const carsData = [
         "engine_power": "2000 cc",
         "engine_type": "Petrol",
         "model": 2020,
-        "rent": "$1200",
+        "rent": "$12",
         "available":"Available",
         "agent": {
           "image": "agent2.jpg",
@@ -51,7 +51,7 @@ export const carsData = [
         "engine_power": "5000 cc",
         "engine_type": "Petrol",
         "model": 2021,
-        "rent": "$1500",
+        "rent": "$15",
         "available":"Available",
         "agent": {
           "image": "agent3.jpg",
@@ -71,7 +71,7 @@ export const carsData = [
         "engine_power": "2500 cc",
         "engine_type": "Petrol",
         "model": 2022,
-        "rent": "€1800",
+        "rent": "€18",
         "available":"Available",
         "agent": {
           "image": "agent4.jpg",
@@ -91,7 +91,7 @@ export const carsData = [
         "engine_power": "3000 cc",
         "engine_type": "Diesel",
         "model": 2021,
-        "rent": "€1700",
+        "rent": "€17",
         "available":"Available",
         "agent": {
           "image": "agent5.jpg",
@@ -111,7 +111,7 @@ export const carsData = [
         "engine_power": "2500 cc",
         "engine_type": "Hybrid",
         "model": 2022,
-        "rent": "¥130000",
+        "rent": "¥130",
         "available":"Available",
         "agent": {
           "image": "agent6.jpg",
@@ -131,7 +131,7 @@ export const carsData = [
         "engine_power": "2000 cc",
         "engine_type": "Petrol",
         "model": 2021,
-        "rent": "€1600",
+        "rent": "€16",
         "available":"Available",
         "agent": {
           "image": "agent7.jpg",
@@ -151,7 +151,7 @@ export const carsData = [
         "engine_power": "1600 cc",
         "engine_type": "Petrol",
         "model": 2020,
-        "rent": "€1400",
+        "rent": "€14",
         "available":"Available",
         "agent": {
           "image": "agent8.jpg",
