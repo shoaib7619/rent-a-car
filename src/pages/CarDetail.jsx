@@ -27,7 +27,7 @@ function CarDetail() {
           <Roller />
         </div>
       )}
-      <div className='container ml-9 mt-9 pr-8 '>
+      <div className='container ml-6 mt-9 pr-8 '>
         <section className='border border-gray-200 rounded-lg p-6 m-4'>
           <div className='container mx-auto min-h-[800px] mb-14'>
             <div className='flex flex-col lg:flex-row lg:items-center lg:justify-between'>
